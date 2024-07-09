@@ -1,0 +1,18 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "hinbbplusplusg8.jks",
+            "storePassword": "hinbbplusplusg8",
+            "alias": "hinbbplusplusg8",
+            "password": "hinbbplusplusg8",
+            "keystoreType": "jks"
+        },
+        "release": {
+            "keystore": "hinbbplusplusg8.jks",
+            "storePassword": "hinbbplusplusg8",
+            "alias": "hinbbplusplusg8",
+            "password": "hinbbplusplusg8",
+            "keystoreType": "jks"
+        }
+    }
+}
